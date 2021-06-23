@@ -155,7 +155,7 @@ input{
 .main{
 	overflow-x: hidden;
 	 position: relative;
-    top: -55px;
+    top: -34px;
 }
 
 .section{
@@ -233,9 +233,6 @@ input{
     	box-sizing: -1px 0px 4px hsla(var(--hue-color), 64%, 15%, .15);
     	transition: .5s;
     }
-    .main{
-	top:-33px;
-	}
 }
 
 .nav_list{
@@ -978,4 +975,10 @@ input{
    }
 	
 }
+
+@media screen and (max-width: 500px){
+	.main{
+	 position:relative;
+	 top:-55px;	
+	}
 

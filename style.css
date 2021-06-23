@@ -155,7 +155,7 @@ input{
 .main{
 	overflow-x: hidden;
 	 position: relative;
-    top: -45px;
+    top: -50px;
 }
 
 .section{
@@ -275,7 +275,7 @@ input{
 	color: var(--first-color-alt);
 }
 .home{
-	height: 880px;
+	height: 900px;
     position: relative;
     	top: -33px;
 }

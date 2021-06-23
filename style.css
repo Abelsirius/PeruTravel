@@ -155,7 +155,7 @@ input{
 .main{
 	overflow-x: hidden;
 	 position: relative;
-    top: -35px;
+    top: -34px;
 }
 
 .section{
@@ -976,5 +976,11 @@ input{
    	justify-content: space-between;
    }
 	
+}
+
+@media screen and (max-width:500px){
+	.main{
+          top:-55px;		
+	}
 }
 

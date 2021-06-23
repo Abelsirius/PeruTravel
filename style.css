@@ -155,7 +155,7 @@ input{
 .main{
 	overflow-x: hidden;
 	 position: relative;
-    top: -50px;
+    top: -34px;
 }
 
 .section{
@@ -275,7 +275,7 @@ input{
 	color: var(--first-color-alt);
 }
 .home{
-	height: 900px;
+	height: 955px;
     position: relative;
     	top: -33px;
 }
@@ -859,8 +859,13 @@ input{
 		grid-template-columns: .6fr;
 		justify-content: center;
 	}
-
 }
+
+@media scrren and (max-width : 500px){
+	.main{
+		    top: -55px;
+	}
+ }
 
 @media screen and (min-width: 780px){
 	body{

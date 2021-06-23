@@ -233,6 +233,9 @@ input{
     	box-sizing: -1px 0px 4px hsla(var(--hue-color), 64%, 15%, .15);
     	transition: .5s;
     }
+    .main{
+	top:-55px;
+	}
 }
 
 .nav_list{
@@ -860,13 +863,6 @@ input{
 		justify-content: center;
 	}
 }
-
-@media scrren and (max-width : 500px){
-	.main{
-		    top: -55px;
-	}
- }
-
 @media screen and (min-width: 780px){
 	body{
 		margin: 0;

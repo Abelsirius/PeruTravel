@@ -275,9 +275,9 @@ input{
 	color: var(--first-color-alt);
 }
 .home{
-	height: 880px;
+	height: 900px;
     position: relative;
-    	top: -33px;
+    	top: -36px;
 }
 
 

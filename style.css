@@ -155,11 +155,13 @@ input{
 .main{
 	overflow-x: hidden;
 	 position: relative;
-    top: -34px;
+    top: -35px;
+    background-color: var(--body-color);
 }
 
 .section{
 	padding: 4.5rem 0 2.5rem;
+	background: var(--body-color);
 }
 
 .section__title{
@@ -275,9 +277,9 @@ input{
 	color: var(--first-color-alt);
 }
 .home{
-	height: 900px;
+	height: 880px;
     position: relative;
-    	top: -36px;
+    	top: -33px;
 }
 
 
@@ -978,9 +980,7 @@ input{
 	
 }
 
-@media screen and (max-width:500px){
-	.main{
-          top:-55px;		
-	}
-}
 
+body.dark-theme{
+	background-color: var(--body-color);
+}

@@ -235,6 +235,10 @@ input{
     	box-sizing: -1px 0px 4px hsla(var(--hue-color), 64%, 15%, .15);
     	transition: .5s;
     }
+	.home{
+		
+		top:-33px;
+	}
 }
 
 .nav_list{
@@ -277,9 +281,9 @@ input{
 	color: var(--first-color-alt);
 }
 .home{
-	height: 880px;
+	height: 900px;
     position: relative;
-    	top: -33px;
+    	top: -54px;
 }
 
 

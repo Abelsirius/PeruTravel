@@ -283,9 +283,9 @@ input{
 	color: var(--first-color-alt);
 }
 .home{
-	height: 900px;
+	height: 1000px;
     position: relative;
-    	top: -54px;
+    	top: -33px;
 }
 
 
@@ -366,7 +366,7 @@ input{
 	column-gap: .5rem;
 	position: absolute;
 	right: 0;
-	bottom: 9rem;
+	bottom: 7rem;
 }
 
 .home_info-title{

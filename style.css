@@ -155,7 +155,7 @@ input{
 .main{
 	overflow-x: hidden;
 	 position: relative;
-    top: -35px;
+    top: -54px;
     background-color: var(--body-color);
 }
 
@@ -237,6 +237,9 @@ input{
     }
 	.home{
 		top:-33px;
+	}
+	.main{
+		top:-54px;
 	}
 }
 

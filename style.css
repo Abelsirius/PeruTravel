@@ -643,6 +643,10 @@ input{
 	padding: .75rem .75rem 1rem;
 }
 
+i.ri-arrow-up-line.scrollup-icon {
+	font-size:28px;
+}
+
 .place__rating{
 	align-self: flex-end;
 	display: flex;

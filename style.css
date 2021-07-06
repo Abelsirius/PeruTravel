@@ -160,6 +160,8 @@ input{
 }
 
 .section{
+	position:relative;
+	top:-40px;
 	padding: 4.5rem 0 2.5rem;
 	background: var(--body-color);
 }

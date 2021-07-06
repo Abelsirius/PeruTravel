@@ -155,13 +155,11 @@ input{
 .main{
 	overflow-x: hidden;
 	 position: relative;
-    top: -54px;
+    top: -35px;
     background-color: var(--body-color);
 }
 
 .section{
-	position:relative;
-	top:-40px;
 	padding: 4.5rem 0 2.5rem;
 	background: var(--body-color);
 }
@@ -237,12 +235,6 @@ input{
     	box-sizing: -1px 0px 4px hsla(var(--hue-color), 64%, 15%, .15);
     	transition: .5s;
     }
-	.home{
-		top:-33px;
-	}
-	.main{
-		top:-54px;
-	}
 }
 
 .nav_list{
@@ -285,7 +277,7 @@ input{
 	color: var(--first-color-alt);
 }
 .home{
-	height: 1000px;
+	height: 880px;
     position: relative;
     	top: -33px;
 }
@@ -368,7 +360,7 @@ input{
 	column-gap: .5rem;
 	position: absolute;
 	right: 0;
-	bottom: 7rem;
+	bottom: 9rem;
 }
 
 .home_info-title{
@@ -928,7 +920,7 @@ input{
 	}
 
 	.section{
-		padding: 7rem  2rem;
+		padding: 7rem 0 2rem;
 	}
 
 	.about__container{
